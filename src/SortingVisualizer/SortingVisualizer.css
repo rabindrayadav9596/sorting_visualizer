@@ -1,0 +1,17 @@
+.array-container {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  right: 100px;
+}
+
+.array-bar {
+  width: 4px;
+  background-color: rgb(164, 135, 144);
+  display: inline-block;
+  margin: 0 1px;
+}
+.body {
+  background-color: rgb(175, 201, 191);
+  display: flex;
+}
